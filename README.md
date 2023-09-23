@@ -1,9 +1,3 @@
-# House_price_prediction_kaggle
-advanced regression models for predicting house price
-Certainly! Below is a descriptive README for your Kaggle competition project that focuses on predicting house prices using advanced regression models.
-
----
-
 # House Prices Prediction with Advanced Regression Models
 
 ## Project Overview
